@@ -45,15 +45,6 @@ Right now, I'm focused on:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
----
-
-### 💡 Featured Projects
-
-🧪 **Building one brick at a time...**
-
-- 📁 [Python-Basics](https://github.com/prA-G/Python-Basics) — Where it all began... loops, logic, and lightbulbs  
-- 📁 [ML-Lab](https://github.com/prA-G/ML-Lab) — Algorithms + curiosity = experiments unlocked  
-- 📁 [TextSense-NLP](https://github.com/prA-G/TextSense-NLP) — Let’s make machines “read between the lines”  
 
 ---
 
