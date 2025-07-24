@@ -23,7 +23,22 @@ Right now, I'm focused on:
 💡 Fun Fact: I think Jupyter Notebooks are the modern version of magical scrolls 🧙‍♀️
 
 ---
+### 🧠 Challenge Mode: Active  💪
 
+<p align="center">
+  <a href="https://leetcode.com/Praguu/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  ✨ Practicing Pattern Recognition <br>
+  🧩 Solving Real-World Problems <br>
+  💥 Leveling Up Logic One Submission at a Time <br>
+  🚀 Goal: From Beginner to Beast Mode  
+</p>
+
+---
 ### 🧰 My Tech Toolbox
 
 #### ⚙️ Languages & Libraries
