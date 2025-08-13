@@ -23,6 +23,23 @@ Right now, I'm focused on:
 💡 Fun Fact: I think Jupyter Notebooks are the modern version of magical scrolls 🧙‍♀️
 
 ---
+
+### 💼 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pragati-dwivedi-pra-g/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Pragati%20Dwivedi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pragati-dwivedi-pra-g/" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=💼+Connect+with+Pragati+on+LinkedIn;🌐+Let's+Build+and+Collaborate;🚀+Networking+Never+Sleeps" alt="LinkedIn Typing Animation" />
+  </a>
+</p>
+
+---
+
 ### 🧠 Challenge Mode: Active  💪
 
 <p align="center">
@@ -39,6 +56,7 @@ Right now, I'm focused on:
 </p>
 
 ---
+
 ### 🧰 My Tech Toolbox
 
 #### ⚙️ Languages & Libraries
@@ -59,7 +77,6 @@ Right now, I'm focused on:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
 
 ---
 
