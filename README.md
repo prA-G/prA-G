@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=👩‍💻+Yo+Internet+Meet+Pragati;🧠+Teaching+Machines+to+Think;💬+Giving+Code+the+Gift+of+Gab;🚀+Projects+in+Progress,+Skills+Leveling+Up!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=👩‍💻+Yo+Internet+Meet+Pragati;🧠+Teaching+Machines+to+Think;💬+Giving+Code+the+Gift+of+Gab;+Projects+in+Progress;+Skills+Leveling+Up!" alt="Typing SVG" />
 </p>
 
 <h1 align="center">🧬 Hello world, Pragati has entered the dataverse.!</h1>
