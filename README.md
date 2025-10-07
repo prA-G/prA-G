@@ -1,109 +1,116 @@
+<!-- 🌙 PRAGATI’S CELESTIAL README — “Code Written in Constellations” -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=👩‍💻+Yo+Internet+Meet+Pragati;🧠+Teaching+Machines+to+Think;💬+Giving+Code+the+Gift+of+Gab;+Projects+in+Progress;+Skills+Leveling+Up!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&duration=3500&pause=1000&color=F4B6C2&center=true&vCenter=true&width=600&lines=🌙+Hey+Universe,+I'm+Pragati;🪄+Weaving+Dreams+With+Data;💫+Turning+Logic+Into+Light;🌸+Coding+Between+Stars+and+Syntax" alt="Typing SVG" />
 </p>
 
-<h1 align="center">🧬 Hello world, Pragati has entered the dataverse.!</h1>
-<h3 align="center">🌈 Aspiring Data Scientist | 🐍 Python Whisperer | 🤖 Machine Learning Explorer | 💬 NLP Decoder</h3>
+---
+
+<h1 align="center">
+  🌌 <span style="background: linear-gradient(90deg, #FBC2EB 0%, #A6C1EE 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Pragati — The Celestial Coder</span> 🕊️
+</h1>
+
+<h3 align="center">🪄 Python Alchemist | 🌙 Data Dream Weaver | 🌸 ML Storyteller | 💬 NLP Star Whisperer</h3>
 
 ---
 
-### 🌟 About Me
+### 🌷 About Me  
 
-🎓 MSc in Mathematics → 📊 Data Dreamer with a curious mind and a caffeine-fueled keyboard.  
-I believe every dataset has a hidden poem — and I’m learning how to read it.  
+🎓 MSc in Mathematics → balancing equations and emotions since forever.  
+☁️ I believe data isn’t numbers — it’s *feelings translated into code.*  
+💭 Forever chasing elegance in logic and poetry in precision.  
 
-Right now, I'm focused on:
+✨ **Currently orbiting around:**  
+- 🌕 Deep Learning & NLP — teaching algorithms to dream.  
+- 🪶 DSA & Logic — shaping foundations with calm intent.  
+- 🌊 Docker & ML Pipelines — because even stars need structure.  
+- 💗 Projects that blend empathy, data, and design.  
 
-- 🐍 **Python** – The wand I wave to code order into chaos  
-- 🧠 **Machine Learning (ML)** – Teaching machines to “get it” without hardcoding  
-- 💬 **Natural Language Processing (NLP)** – Making machines vibe with human language  
-- 📚 **OOP, Data Structures, and Logic Building** – Because solid foundations = high-rise skills  
-- 🔍 Solving problems like a detective — one dataset at a time  
-
-💡 Fun Fact: I think Jupyter Notebooks are the modern version of magical scrolls 🧙‍♀️
+💫 *Fun fact:* I once said “print(hope)” and somehow, it worked.
 
 ---
 
-### 💼 Let's Connect
+### 🌌 My Universe in Motion  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prA-G&theme=gruvbox_light&no-frame=true&column=6&margin-w=15&margin-h=10" />
+</p>
+
+---
+
+### 🌠 Where to Find Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pragati-dwivedi-pra-g/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pragati%20Dwivedi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pragati-dwivedi-pra-g/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=💼+Connect+with+Pragati+on+LinkedIn;🌐+Let's+Build+and+Collaborate;🚀+Networking+Never+Sleeps" alt="LinkedIn Typing Animation" />
-  </a>
-</p>
-
----
-
-### 🧠 Challenge Mode: Active  💪
-
-<p align="center">
+    <img src="https://img.shields.io/badge/LinkedIn-Pragati%20Dwivedi-C0AEF9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> 
   <a href="https://leetcode.com/Praguu/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-Pragu-F4B6C2?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="mailto:prdwi2101@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Me-FFD6E8?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
+---
+
+### 🧺 My Celestial Toolbox  
+
+#### 🪞 Languages & Libraries  
 <p align="center">
-  ✨ Practicing Pattern Recognition <br>
-  🧩 Solving Real-World Problems <br>
-  💥 Leveling Up Logic One Submission at a Time <br>
-  🚀 Goal: From Beginner to Beast Mode  
+  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode,docker" />
+  <br/>
+  <img src="https://img.shields.io/badge/Pandas-FADDE1?style=flat&logo=pandas&logoColor=5B4B8A"/>
+  <img src="https://img.shields.io/badge/NumPy-E8DFF5?style=flat&logo=numpy&logoColor=3C3C9E"/>
+  <img src="https://img.shields.io/badge/Matplotlib-FCE2DB?style=flat&logo=matplotlib&logoColor=5B4B8A"/>
+  <img src="https://img.shields.io/badge/Seaborn-DDEDEA?style=flat&logo=seaborn&logoColor=3C3C9E"/>
+  <img src="https://img.shields.io/badge/scikit--learn-FDFCDC?style=flat&logo=scikit-learn&logoColor=E59866"/>
+  <img src="https://img.shields.io/badge/NLTK-FCF6BD?style=flat&logo=nltk&logoColor=6B705C"/>
+  <img src="https://img.shields.io/badge/spaCy-DBEAFE?style=flat&logo=spacy&logoColor=1D4ED8"/>
 </p>
 
 ---
 
-### 🧰 My Tech Toolbox
-
-#### ⚙️ Languages & Libraries
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-005571?style=flat&logo=seaborn&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/-NLTK-76B900?style=flat&logo=nltk&logoColor=white)
-![spaCy](https://img.shields.io/badge/-spaCy-0088CC?style=flat&logo=spacy&logoColor=white)
-
-#### 🛠️ Tools & Platforms
-
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-### 📈 GitHub Stats
+### 🌙 Calm Chaos: My Learning Orbit  
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=prA-G&show_icons=true&theme=tokyonight"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prA-G&layout=compact&theme=tokyonight"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=1200&color=A6C1EE&center=true&vCenter=true&width=600&lines=🌠+LeetCode+like+a+Meditation;🌸+Patterns+and+Peace;🌙+Calm+Mind,+Sharp+Logic;🪞+Growing+in+Grace+and+Code" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+### 🌔 GitHub Galaxy  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prA-G&theme=radical"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=prA-G&show_icons=true&theme=transparent&title_color=A6C1EE&icon_color=F4B6C2&text_color=2E2E2E&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prA-G&layout=compact&theme=transparent&title_color=A6C1EE&text_color=5B4B8A&hide_border=true"/>
 </p>
 
 ---
 
-### 🎯 Motto
-
-> _“Not just coding — I’m crafting signals from noise.”_
-
-🛠️ Still learning. Still building. Still hungry.
+### 🕊️ Soft Streaks, Strong Focus  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prA-G&color=blue" alt="Profile views"/>
+  <img src="https://streak-stats.demolab.com?user=prA-G&theme=transparent&hide_border=true&ring=F4B6C2&fire=FADDE1&currStreakLabel=A6C1EE"/>
 </p>
 
+---
+
+### 🌌 Stars in Motion  
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake pastel animation" />
+</p>
+
+---
+
+### 🌙 Mantra  
+
+> _“I don’t just code — I conjure constellations of logic.”_  
+> _“Each dataset is a sky — I just connect the stars.”_  
+
+🪄 Still curious. Still cosmic. Still coding softly into the night.  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prA-G&color=F4B6C2&label=✨+Celestial+Visitors" alt="Profile views"/>
+</p>
