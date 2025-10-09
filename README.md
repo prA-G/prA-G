@@ -98,7 +98,15 @@ Right now, I’m levelling up in:
 ### 🔥 Streak in Bloom
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prA-G&theme=rose_pine&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=prA-G&theme=rose_pine&mode=weekly&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Pragati's Animated GitHub Streak" />
+</p>
+
+---
+
+### 💫 Aesthetic Add-ons  
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
